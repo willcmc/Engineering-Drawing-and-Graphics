@@ -1,2 +1,2 @@
 # edcg
-EDCG CE13001 IITKGP UG1stYR
+EDCG CE13001 at IIT KGP for UG-1st year
